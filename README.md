@@ -28,7 +28,6 @@ fun_fact: Me apasiona construir soluciones a problemas reales
 ```
 
 - 🎓 Recién graduado de **Ingeniería en Sistemas**
-- 🇻🇪 Desde **Venezuela** para el mundo
 - 💻 Me apasiona el desarrollo de software en todas sus formas: **móvil, web y escritorio**
 - 🔭 Actualmente trabajando en proyectos con **Flutter, React y Node.js**
 - 🌱 Siempre aprendiendo nuevas tecnologías
