@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fez6k/github-profile-summary-cards@v0.6.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Jesus64000
           BRANCH_NAME: main
