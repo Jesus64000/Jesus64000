@@ -82,8 +82,8 @@ fun_fact: Me apasiona construir soluciones a problemas reales
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesus64000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus64000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jesus64000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jesus64000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -114,28 +114,28 @@ fun_fact: Me apasiona construir soluciones a problemas reales
 
 <div align="center">
   <a href="https://github.com/Jesus64000/mindpath-neuro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesus64000&repo=mindpath-neuro&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="mindpath-neuro"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jesus64000&repo=mindpath-neuro&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="mindpath-neuro"/>
   </a>
   <a href="https://github.com/Jesus64000/healskin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesus64000&repo=healskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="healskin"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jesus64000&repo=healskin&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="healskin"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Jesus64000/geocar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesus64000&repo=geocar&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="geocar"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jesus64000&repo=geocar&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="geocar"/>
   </a>
   <a href="https://github.com/Jesus64000/sistema_biometria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesus64000&repo=sistema_biometria&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="sistema_biometria"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jesus64000&repo=sistema_biometria&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="sistema_biometria"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Jesus64000/plataforma-don-filete">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesus64000&repo=plataforma-don-filete&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="plataforma-don-filete"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jesus64000&repo=plataforma-don-filete&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="plataforma-don-filete"/>
   </a>
   <a href="https://github.com/Jesus64000/Sistema-Orquesta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesus64000&repo=Sistema-Orquesta&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="Sistema-Orquesta"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jesus64000&repo=Sistema-Orquesta&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="Sistema-Orquesta"/>
   </a>
 </div>
 
