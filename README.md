@@ -82,17 +82,17 @@ fun_fact: Me apasiona construir soluciones a problemas reales
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="49%"/>
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="49%"/>
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" width="49%"/>
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%"/>
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%"/>
+  <img src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" width="49%"/>
+  <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" width="49%"/>
 </div>
 
 ---
