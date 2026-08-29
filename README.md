@@ -79,14 +79,6 @@ fun_fact: Me apasiona construir soluciones a problemas reales
 
 ---
 
-## 📊 Estadísticas & Lenguajes
-
-<div align="center">
-  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="55%"/>
-</div>
-
----
-
 ## 📌 Proyectos Destacados
 
 <div align="center">
